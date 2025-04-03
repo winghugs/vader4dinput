@@ -101,7 +101,6 @@ try:
             print("Closing hidraw file")
             if 'hidraw_file' in locals():
                 hidraw_file.close()
-            device.close()
             break
         except Exception as e:
             print(f"An unexpected error occurred: {e}")
