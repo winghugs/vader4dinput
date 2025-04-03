@@ -1,0 +1,49 @@
+Field 04: Motion Controls
+Field 05: Motion Controls
+Field 06: Motion Controls
+Field 07: Button Field
+	Value 01: BTN_TRIGGER_HAPPY5
+	Value 02: BTN_TRIGGER_HAPPY6
+	Value 08: BTN_TRIGGER_HAPPY1
+	Value 20: BTN_TRIGGER_HAPPY2
+	Value 10: BTN_TRIGGER_HAPPY4
+	Value 04: BTN_TRIGGER_HAPPY3
+Field 08: Button Field
+	Value 01: BTN_TRIGGER_HAPPY7
+	Value 08: BTN_MODE
+Field 09: Button Field
+	Value 20: BTN_EAST
+	Value 10: BTN_SOUTH
+	Value 80: BTN_WEST
+	Value 40: BTN_SELECT
+	Value 01: BTN_DPAD_UP
+	Value 02: BTN_DPAD_RIGHT
+	Value 04: BTN_DPAD_DOWN
+	Value 08: BTN_DPAD_LEFT
+Field 10: Button Field
+	Value 02: BTN_START
+	Value 01: BTN_NORTH
+	Value 04: BTN_TL
+	Value 08: BTN_TR
+	Value 10: BTN_TL2
+	Value 20: BTN_TR2
+	Value 40: BTN_THUMBL
+	Value 80: BTN_THUMBR
+Field 11: Motion Controls
+Field 12: Motion Controls
+Field 13: Motion Controls
+Field 14: Motion Controls
+Field 15: Motion Controls
+Field 16: Motion Controls
+Field 17: ABS_X
+Field 18: Motion Controls
+Field 19: ABS_Y
+Field 20: Motion Controls
+Field 21: ABS_RX
+Field 22: ABS_RY
+Field 23: ABS_Z
+Field 24: ABS_RZ
+Field 26: Motion Controls
+Field 27: Motion Controls
+Field 29: Motion Controls
+Field 30: Motion Controls
